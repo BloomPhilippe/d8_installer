@@ -18,3 +18,7 @@ Lancer l'installation
 ```
 sh installer-drupal-8.sh nom-du-projet nom-db
 ```
+
+## Liens utiles
+
+- https://drushcommands.com/drush-8x/core/site-install/
