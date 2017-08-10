@@ -1,4 +1,4 @@
-# installer-drupal-8
+# d8_installer
 
 Script shell permettant d'installer Drupal 8
 
