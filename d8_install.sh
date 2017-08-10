@@ -32,3 +32,6 @@ composer require drupal/contact_storage
 # info : https://stackoverflow.com/questions/17166848/invalid-client-in-google-oauth2
 composer require drupal/social_api
 composer require drupal/social_auth
+
+# Mes thèmes et modules
+composer require bloom-philippe/d8_theme_bs4
