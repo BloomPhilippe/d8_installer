@@ -1,6 +1,9 @@
 composer create-project drupal/drupal $1
 cd $1
 
+# Module qui permet d'utiliser le debug Drupal
+composer require drupal/devel
+
 # Module qui permet de créer un export de votre base de données en code
 composer require drupal/features
 
