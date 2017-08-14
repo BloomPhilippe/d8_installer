@@ -18,6 +18,9 @@ composer require drupal/image_effects
 # Module qui permet d'avoir des champs adresse et des vue en Google Maps
 composer require drupal/geolocation
 
+# Module qui permet d'avoir des groupes de champs
+composer require drupal/field_collection
+
 # Module qui permet de cloner ses contenu
 composer require drupal/entity_clone
 
