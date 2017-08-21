@@ -21,6 +21,9 @@ composer require drupal/geolocation
 # Module qui permet d'avoir des groupes de champs
 composer require drupal/field_collection
 
+# Module qui permet d'avoir des champs couleur
+composer require drupal/color_field
+
 # Module qui permet de cloner ses contenu
 composer require drupal/entity_clone
 
