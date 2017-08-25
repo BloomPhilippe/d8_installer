@@ -7,6 +7,9 @@ composer require drupal/features
 # Module qui permet de créer des actions qui s'execute en fonction d'un evenement
 composer require drupal/rules
 
+# Module qui permet la gestion des balise Meta
+composer require drupal/metatag
+
 # Module qui permet de créer des pattern d'url
 composer require drupal/pathauto
 composer require drupal/token
