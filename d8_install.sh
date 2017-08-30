@@ -36,6 +36,9 @@ composer require drupal/contact_block
 # Module qui permet de créer des champs de type formulaire
 composer require drupal/contact_storage
 
+# Module qui permet d'obtenir des shortcodes de base
+composer require drupal/shortcode
+
 # Module qui permet de se connecter via les réseaux sociaux
 # info : https://www.drupal.org/node/2763731
 # info : https://stackoverflow.com/questions/17166848/invalid-client-in-google-oauth2
