@@ -1,6 +1,9 @@
 composer create-project drupal/drupal $1
 cd $1
 
+# Module qui permet de filtrer l'ensemble des modules
+composer require drupal/module_filter
+
 # Module qui permet de créer un export de votre base de données en code
 composer require drupal/features
 
