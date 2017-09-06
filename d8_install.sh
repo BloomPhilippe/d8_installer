@@ -20,6 +20,7 @@ composer require drupal/token_language
 
 # Module qui permet des style d'image performant
 composer require drupal/image_effects
+composer require drupal/file_mdm
 
 # Module qui permet d'avoir des champs adresse et des vue en Google Maps
 composer require drupal/geolocation
